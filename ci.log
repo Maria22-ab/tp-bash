@@ -1,0 +1,15 @@
+[2026-10-27 17:25:33] === Début du pipeline ===
+[2026-10-27 17:25:33] Clonage de http://github.com/Maria22-ab/tp-bash.git
+[2026-10-27 17:25:34] Exécution des tests...
+[2026-10-27 17:25:34] Tests réussis
+[2026-10-27 17:25:34] === Pipeline terminé avec succès ===
+[2026-10-27 17:40:31] === Début du pipeline ===
+[2026-10-27 17:40:31] Mise à jour du dépôt (git pull)
+[2026-10-27 17:40:32] Exécution des tests...
+[2026-10-27 17:40:32] Tests réussis
+[2026-10-27 17:40:32] === Pipeline terminé avec succès ===
+[2026-10-27 17:41:02] === Début du pipeline ===
+[2026-10-27 17:41:02] Mise à jour du dépôt (git pull)
+[2026-10-27 17:41:03] Exécution des tests...
+[2026-10-27 17:41:03] Tests réussis
+[2026-10-27 17:41:03] === Pipeline terminé avec succès ===
